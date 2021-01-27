@@ -13,7 +13,7 @@ Random messages generator what combined data from different collections.
 ## Run
 
 ```bash
-npm start
+node index.js
 ```
 
 ## Contributing
